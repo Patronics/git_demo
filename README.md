@@ -9,7 +9,7 @@ If you're running macOS or Linux then git is likely already installed, but if yo
 ### cloning
 To clone this repository simply create a new folder (with the **mkdir** command or use the GUI), 
 change to this directory with **cd path/to/your/new/folder** (or just **cd folder** if you're already in the parent directory),
-and use the command **git clone https://github.com/Patronics/git_demo.git
+and use the command **git clone https://github.com/Patronics/git_demo.git**
 
 you will now have an exact copy of the repository you cloned
 you can work with files in the new folder just as you normally would.
