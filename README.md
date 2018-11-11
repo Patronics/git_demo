@@ -34,3 +34,16 @@ If you haven't already created a GitHub account, now's the time to do so
 once that's done, tell me your username or email you used for the account, and Ill add you as a collaborator. This only needs to happen the first time you push a commit.
 
 when that setup is complete, you can simply use the **git push** command to push all new commits to the shared repository, so those changes will be available to everyone.
+
+
+## TODO: 
+
+* add explanation for branching
+
+* provide example code
+
+* explain firefighter layout
+
+* explain initial settings for git for windows
+
+* possibly explain [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
