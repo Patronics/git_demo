@@ -47,3 +47,5 @@ when that setup is complete, you can simply use the **git push** command to push
 * explain initial settings for git for windows
 
 * possibly explain [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+* possibly create separate branch for everyone to experiment with collaborating
