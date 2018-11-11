@@ -1,7 +1,7 @@
 # git_demo
 This is a Git Repository set up to allow other robotics club members to get started with Git
 
-If you're running macOS or Linux then git is likely already installed, but if you're running windows you'll need to follow [these instructions](../windows.md) to install Git for Windows
+If you're running macOS or Linux then git is likely already installed, but if you're running windows you'll need to follow [these instructions](windows.md) to install Git for Windows
 
 [here's a page with a good tutorial for starting to use Git and Github](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners).
 
