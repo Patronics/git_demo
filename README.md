@@ -19,7 +19,7 @@ When you're ready to save your changes and submit them back to the repository, t
 
 First you need to add any files you've changed and want to submit to the "staging area".
 
-use the command **git add filename.ext** (you can run **git status** at any time to see what files have changed that you may want to add.
+use the command ```git add filename.ext``` (you can run ```git status``` at any time to see what files have changed that you may want to add.
 
 ### committing
 
