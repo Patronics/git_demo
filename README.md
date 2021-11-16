@@ -7,9 +7,9 @@ If you're running macOS or Linux then git is likely already installed, but if yo
 
 
 ### cloning
-To clone this repository simply create a new folder (with the **mkdir** command or use the GUI), 
-change to this directory with **cd path/to/your/new/folder** (or just **cd folder** if you're already in the parent directory),
-and use the command **git clone https://github.com/Patronics/git_demo.git**
+To clone this repository simply create a new folder (with the ```mkdir``` command or use the GUI), 
+change to this directory with ```cd path/to/your/new/folder``` (or just ```cd folder``` if you're already in the parent directory),
+and use the command ```git clone https://github.com/Patronics/git_demo.git```
 
 you will now have an exact copy of the repository you cloned
 you can work with files in the new folder just as you normally would.
@@ -23,7 +23,7 @@ use the command **git add filename.ext** (you can run **git status** at any time
 
 ### committing
 
-when you've staged all the files you want, you then use **git commit -m "description of what's changed"** to officially record your changes and add to the version history.
+when you've staged all the files you want, you then use ```git commit -m "description of what's changed"``` to officially record your changes and add to the version history.
 You typically want to commit (and stage first) any time you've made any significant changes, and whenever you're at a point that the code works sucessfully.
 
 ### pushing changes
@@ -33,4 +33,4 @@ there is one last step to share your changes with everyone else, pushing them.
 If you haven't already created a GitHub account, now's the time to do so
 once that's done, tell me your username or email you used for the account, and Ill add you as a collaborator. This only needs to happen the first time you push a commit.
 
-when that setup is complete, you can simply use the **git push** command to push all new commits to the shared repository, so those changes will be available to everyone.
+when that setup is complete, you can simply use the ```git push``` command to push all new commits to the shared repository, so those changes will be available to everyone.
